@@ -1,0 +1,1 @@
+# Chinese_radical
