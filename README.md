@@ -12,8 +12,8 @@
 
 # 结果
 
-```
-# encoding=utf-8
+
+
 
 
 运行demo.py 的结果如图所示
